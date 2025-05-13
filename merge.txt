@@ -1,1 +1,2 @@
-Hi, I'm doing project on git
+Hi, I'm doing project on git to do all file handle in my proj
+
